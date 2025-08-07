@@ -1,0 +1,16 @@
+.ancestor{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.ancestor .first-class{
+    background-color: black;
+    color: white;
+}
+
+.ancestor .second-class{
+    background-color: yellow;
+}
+
+
+
