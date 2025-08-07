@@ -1,0 +1,16 @@
+.ancestor{
+    background-color: lightpink;
+    font-family: Verdana, DeJaVu Sans, sans-serif;
+}
+#first-id{
+    color: blue;
+    font-size: 36px;
+}
+.ancestor.son{
+    font-size: 24px;
+}
+#another-id{
+    background-color: lightgreen;
+    font-size: 24;
+    font-weight: bold;
+}
